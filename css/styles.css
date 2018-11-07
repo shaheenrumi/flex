@@ -59,6 +59,7 @@ body{
     display: flex;
     align-items: flex-end;
     align-content: space-between;
+    flex-wrap:wrap;
 }
 .travel .heading-box {
 
